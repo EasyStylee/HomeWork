@@ -1,0 +1,2 @@
+Изучены теги table, tr, td,caption, thead, tbody, tfoot.
+Атрибуты colspan, rowspan

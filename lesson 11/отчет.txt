@@ -1,0 +1,2 @@
+Изучены теги: form, button, select, option, textarea, lable
+Изучены атрибуты: Cols, hard, type, action metod, name
