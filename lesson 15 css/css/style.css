@@ -1,0 +1,53 @@
+/* .parent {
+  color: red;
+  border: 3px solid black ;
+}
+
+div {
+  color: green;
+}
+
+#id-block {
+  background-color: black;
+}
+
+.block {
+  color: red
+}
+
+
+.block1, .block2, .block3 {
+  color: red;
+}
+
+div.blue-block {
+  color: blue;
+}
+
+div .orange {
+  color: orange ;
+}
+
+.parent-1>.child-1 {
+  color: orange ;
+} */
+
+p {
+  color: red;
+}
+
+.text--bold {
+color: green;
+}
+
+.text--bold1, .text--bold2, .text--bold3 {
+  color: yellow;
+  }
+
+  .parent> .child {
+color: rgb(245, 0, 143);
+  }
+
+a[href="#blog"] {
+  color: rgb(255, 6, 6);
+}
