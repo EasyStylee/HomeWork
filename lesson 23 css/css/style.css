@@ -1,0 +1,37 @@
+.wrapper {
+  padding: 100px 100px 30vh;
+  height: 100vh;
+}
+
+.block {
+  height: 100%;
+  box-shadow: 0 0 10px #5c5656;
+  border-radius: 5px;
+}
+
+/* ------------------------ */ 
+
+/* .block {
+background-color: #a12323; */
+/* background: linear-gradient(270deg,#269e8e, rgb(160, 53, 89));
+background: linear-gradient(#269e8e, rgb(160, 53, 89));
+background: radial-gradient(rgb(197, 12, 12),rgb(221, 224, 22));
+background: url("../image/dog.jpg")0 0 / auto no-repeat,url("../image/laptop.jpg")100% 0 / auto 300px no-repeat, #0dd499 */
+
+/* background-repeat: space;
+background-position: x y ;
+background-attachment: local;
+background-size: contain; */
+/* } */ 
+
+/*  вариант 1 */
+/* .block{
+  background-image: url(../image/laptop.jpg),linear-gradient(#a70a0a,rgb(8, 207, 114));
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+} */
+
+/* вариант 2 */
+.block{
+  background: url("../image/laptop.jpg")50% no-repeat,linear-gradient(rgb(16, 194, 16),rgb(212, 13, 13));
+}
